@@ -14,11 +14,13 @@
 6. Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
 
-# SCHMITT TRIGGER CIRCUIT DIAGRAM:
-PASTE UR SIMULATION DIAGRAM HERE.
+# CIRCUIT DIAGRAM:
+<img width="1236" height="1600" alt="image" src="https://github.com/user-attachments/assets/493f9745-46ae-4320-a376-0e93ddbe64d5" />
+
 
 # OUTPUT:
-PASTE UR SIMULATION GRAPH  HERE.
+<img width="1918" height="1136" alt="Screenshot 2026-02-25 104201" src="https://github.com/user-attachments/assets/70f879c9-7d3e-4de9-989c-1b759867e33e" />
+
 
 # RESULT :
 
